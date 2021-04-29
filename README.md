@@ -8,3 +8,5 @@ Then you can find dashboard. Here's some detail about this website below:
 ● Customers can review our team.
 
 Check the website: https://event-baaz-project.web.app
+
+Here's the server site code: https://github.com/ratulkhan1428/event-baaz-server
